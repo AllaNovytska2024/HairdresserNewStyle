@@ -1,0 +1,47 @@
+
+
+.fit-content {
+    background-color: rgba(209, 202, 241, 0.955);
+    font-size: 15px;
+    color: beige;
+    display: inline-block;
+    padding: 5px;
+    min-width: 1200px;
+    width: fit-content;
+    text-shadow: 8px 8px 8px #427448;
+  }
+  .socialMedia {
+    background-color: rgba(209, 202, 241, 0.955);
+    font-size: 8px;
+    font-family: "Ga Maamli";
+    color: rgba(33, 22, 53, 0.41);
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    min-width: 1270px;
+    width: fit-content;
+    box-sizing: border-box;
+    text-shadow: 8px 8px 8px #427448;
+  }
+  .name {
+    color: rgba(18, 81, 108, 0.864);
+    font-size: 15px;
+    font-family: "Bungee Spice";
+    text-align: left;
+    display: inline-block;
+    padding: 5px;
+    min-width: 1200px;
+    width: fit-content;
+    text-shadow: 8px 8px 8px #427448;
+  }
+  .font-effect-fire-animation {
+    color: rgb(24, 87, 79);
+    text-shadow: 8px 9px 10px;
+    text-decoration: rgb(82, 132, 116);
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  
